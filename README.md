@@ -13,10 +13,9 @@ Analisis data Netflix menggunakan Python dan Pandas. Fokus pada:
 - Matplotlib & Seaborn
 - Google Colab
 
-## 📁 Struktur
-  - [netflix_analysis.ipynb](https://github.com/luthfisaputra/Netflix-Data-Analysis/blob/main/ProyekNetflix.ipynb)
-- dataset/
-- images/
+## 📁 File
+- [netflix_analysis.ipynb](https://github.com/luthfisaputra/Netflix-Data-Analysis/blob/main/ProyekNetflix.ipynb)
+- [dataset]
 
 ## 📌 Hasil Analisis
 - Film Netflix rata-rata berdurasi 90–100 menit
